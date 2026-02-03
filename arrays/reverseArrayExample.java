@@ -18,7 +18,7 @@ class reverseArrayExample {
     public static void main(String[] args) 
     {
         int[] arr = {1,4,5,7,6,9};
-        Main main = new Main();
+         reverseArrayExample main = new reverseArrayExample();
         int[] reversed = main.reverseArray(arr);
         for(int i=0; i<reversed.length; i++)
         {
